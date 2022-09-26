@@ -66,7 +66,7 @@
 			</div>
 			<div id="/section-2/page-6" class="ft-page page-10" data-id="page-6">
 				<h3 id="text-9" contenteditable="true">并且面带阳光、自信的笑容</h3>
-				<img src='img/iali22.jpg' />
+				<img src='https://www.helloimg.com/images/2022/09/26/Z8KQ06.jpg' />
 			</div>
 		</div>
 		<div class="ft-section section-3" data-id="section-3">
